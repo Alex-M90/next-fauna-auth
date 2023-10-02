@@ -53,7 +53,7 @@ export default function RegisterForm() {
                   type="submit"
                   className="flex w-full justify-center rounded-md bg-rose-500 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-rose-700"
                 >
-                  Sign in
+                  Register
                 </button>
               </div>
             </form>
